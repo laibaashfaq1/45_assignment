@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@types/node": "^20.12.7"
+  },
+  "name": "37.large_shirts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
